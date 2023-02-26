@@ -28,7 +28,7 @@
 <img width="5%" title="Selenide" src="media/icons/selenide-logo.svg">
 <img width="5%" title="Jenkins" src="media/icons/jenkins-logo.svg">
 <img width="5%" title="Jira" src="media/icons/jira-logo.svg">
-<img width="5%" title="Idea" src="media/icons/idea-logo.svg">
+<img width="5%" title="Idea" src="media/icons/IDEA-logo.svg">
 <img width="5%" title="GIT" src="media/icons/git-logo.svg">
 <img width="5%" title="Allure Report" src="media/icons/allure-Report-logo.svg">
 <img width="5%" title="Allure TestOps" src="media/icons/allure-ee-logo.svg">
