@@ -19,6 +19,7 @@
 ### Demo project with auotomated tests:
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RomaQA&repo=demoqa)](https://github.com/RomaQA/demoqa)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RomaQA&repo=WildberriesDemoTests)](https://github.com/RomaQA/WildberriesDemoTests)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RomaQA&repo=mobile-tests)](https://github.com/RomaQA/mobile-tests)
 
 ### 🛠 &nbsp;Languages and Tools :
 <p  align="center"> 
