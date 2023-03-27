@@ -16,7 +16,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge">
   </a>
 
-### Demo project with auotomated tests:
+### Demo project with automated tests:
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RomaQA&repo=demoqa)](https://github.com/RomaQA/demoqa)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RomaQA&repo=WildberriesDemoTests)](https://github.com/RomaQA/WildberriesDemoTests)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RomaQA&repo=mobile-tests)](https://github.com/RomaQA/mobile-tests)
